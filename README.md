@@ -33,7 +33,7 @@ This project presents a simple, interactive sales dashboard built using **Power 
 - *(Optional)* Python + Pandas – For preprocessing (not used in this version)
 
 # Final dashboard
-- < a href="https://github.com/VidyavaVidyavati/Simple-Sales-dashboard-Design/blob/main/Simple%20sales%20dashboard.pbix">Dashboard</a>
+- <a href="https://github.com/VidyavaVidyavati/Simple-Sales-dashboard-Design/blob/main/Simple%20sales%20dashboard.pbix">Dashboard</a>
 
 ## 📈 Outcome
 
