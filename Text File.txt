@@ -1,0 +1,24 @@
+📄 Sales Dashboard Insights
+Dataset: Superstore_Sales
+Tool Used: Power BI
+
+Dashboard Visuals:
+
+- Line Chart: Sales over Month-Year
+- Bar Chart: Sales by Region
+- Donut Chart: Sales by Category
+- Slicer: Region
+
+📊 Top Insights:
+
+1. West region had the highest total sales across all months.
+   This indicates strong market performance and customer     engagement in the West.
+
+2. Technology category generated the most revenue, especially in Q4.
+   Likely driven by holiday season and year-end enterprise purchases.
+
+3. Sales peaked in November 2022.
+   A noticeable spike suggests effective promotions or seasonal demand.
+
+4. Central and East regions showed consistent but moderate performance.
+   These may represent stable but less aggressive growth areas.
